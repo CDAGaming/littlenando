@@ -44,7 +44,7 @@
     animation: titleAnimation 36s linear infinite 0s;
 }
 .cb-slideshow li div h3 {
-    font-size: 90px;
+    font-size: 60px;
     padding: 0 30px;
     line-height: 120px;
     color: rgba(255,255,255,0.8);
