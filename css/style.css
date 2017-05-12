@@ -1,5 +1,6 @@
 html, body {
 	color: #ffffff;
+	font-family: 'Futura PT';
 	background-size:100%;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
@@ -7,7 +8,7 @@ html, body {
 }
 @font-face {
 	font-family: Futura PT;
-	src: url('fonts/FuturaPTBold.otf');
+	src: url('https://cdagaming.github.io/littlenando/fonts/FuturaPTBold.otf');
 }
 table {
     border-collapse: collapse;
