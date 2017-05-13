@@ -41,6 +41,9 @@ iframe {
 a {
 	color: #ffffff;
 }
+.btn-primary {
+	background-color: rgba(0,0,0,0.1);
+}
 .navbar{
 	border-radius: 0px;
 	border:none;
